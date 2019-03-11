@@ -42,7 +42,7 @@ E/libc(1597): Access denied finding property "camera.cpp.dumppreviewpayload"
 この問題の解決法が見つけられず、対処に苦慮しています。どなたかよい方法をご存知でしたら、教えていただけると幸いです。
 
 ## References
-[Unityでバーコード・QRコードリーダーをつくる](http://fuzzy0.hatenablog.com/entry/2018/07/10/234630)
-[Taskを極めろ！async/await完全攻略](https://qiita.com/acple@github/items/8f63aacb13de9954c5da)
-[初心者のためのTask.Run(), async/awaitの使い方](https://qiita.com/Alupaca1363Inew/items/0126270bca99883605de)
-[async/awaitのしくみ](https://www.youtube.com/watch?v=sT5kwDEb3xY&t=379s)
+- [Unityでバーコード・QRコードリーダーをつくる](http://fuzzy0.hatenablog.com/entry/2018/07/10/234630)
+- [Taskを極めろ！async/await完全攻略](https://qiita.com/acple@github/items/8f63aacb13de9954c5da)
+- [初心者のためのTask.Run(), async/awaitの使い方](https://qiita.com/Alupaca1363Inew/items/0126270bca99883605de)
+- [async/awaitのしくみ](https://www.youtube.com/watch?v=sT5kwDEb3xY&t=379s)
